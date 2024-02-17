@@ -1,9 +1,12 @@
 
 
 
-# Data Sources
+# NB Power Forecasting Service
 
-## 1. New Brunswick Power System Information
+
+## Data Sources
+
+### 1. New Brunswick Power System Information
 NB Power's system information provides hourly data available as monthly CSV files for the below fields. All values are measured in MWh.
 
 | **Column**   | **Description**                                                                                                         |
@@ -18,5 +21,5 @@ NB Power's system information provides hourly data available as monthly CSV file
 
 
 
-# Resources
+## Resources
 - [New Brunswick Power System Information Archive](https://tso.nbpower.com/Public/en/system_information_archive.aspx)
