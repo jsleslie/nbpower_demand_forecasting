@@ -15,6 +15,7 @@ requests = "^2.31.0"
 selenium = "^4.17.2"
 webdriver-manager = "^4.0.1"
 pyarrow = "^15.0.0"
+logging = "^0.4.9.6"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
